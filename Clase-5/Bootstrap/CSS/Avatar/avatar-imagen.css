@@ -1,0 +1,20 @@
+.avatar__imagen{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.avatar__imagen--perf1{
+    background-image: url(/avatares/avatar1.jpg);
+}
+
+.avatar__imagen--perf2{
+    background-image: url(/avatares/avatar1.jpg);
+}
+
+.avatar__imagen--perf3{
+    background-image: url(/avatares/avatar1.jpg);
+}

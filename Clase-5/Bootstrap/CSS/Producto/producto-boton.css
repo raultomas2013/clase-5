@@ -1,0 +1,13 @@
+.producto__boton{ 
+    background-color: rgb(173, 149, 102);
+    border: none;
+    border-radius: 15px 0 ;
+    color: rgb(15, 27, 56);
+    padding: 0.8rem;
+    font-family: 'Montserrat';
+}
+.producto__boton:hover{ 
+    cursor: pointer;
+    background-color: brown;
+    color: cadetblue;
+}

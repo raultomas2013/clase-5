@@ -1,0 +1,9 @@
+.producto{ 
+    background-color: rgb(27, 27, 46);
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    align-items: center;
+    padding: 15px;
+    border-radius: 15px;
+}

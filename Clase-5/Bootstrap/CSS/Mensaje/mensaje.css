@@ -1,0 +1,19 @@
+.mensaje{
+    text-align: center;
+    font-family: 'Montserrat';
+    padding: 3rem;
+    font-size: 3rem;
+    font-weight: 800; margin: 2rem;
+}
+@media screen and (min-width: 0px;) {
+    .mensaje{
+        padding: 2rem 1rem;
+    }
+    
+}
+@media screen and (min-width: 750px;) {
+    .mensaje{
+        padding: 4rem 2rem;
+    }
+    
+}

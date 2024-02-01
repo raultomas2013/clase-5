@@ -1,0 +1,19 @@
+.productos { 
+    background-color: rgb(53, 52, 76);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+@media screen and (min-width: 0px;) {
+    .productos{
+        padding: 5rem 0 0 1rem;
+    }
+    
+}
+@media screen and (min-width: 750px;) {
+    .productos{
+        padding: 5rem 0 0 2rem;
+    }
+    
+}

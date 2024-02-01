@@ -1,0 +1,7 @@
+.avatar{
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    margin: 1rem;
+    padding: 1.5rem;
+}

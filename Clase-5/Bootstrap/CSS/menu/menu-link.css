@@ -1,0 +1,12 @@
+.menu__link {
+  text-decoration: none;
+  color: azure;
+  margin-right: 2rem;
+}
+.menu__link:hover {
+  color: #e5e56e;
+  font-weight: bold;
+}
+.menu__link .active{
+  color: black;
+}
